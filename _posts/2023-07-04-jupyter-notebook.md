@@ -43,3 +43,4 @@ The plugin takes as input the path to the notebook, but it assumes the file exis
 {:/nomarkdown}
 
 Note that the jupyter notebook supports both light and dark themes.
+Refer to [[2015-07-15-code]] and [[2024-04-15-pseudocode]] for details on including code and psudocode for a problem.

@@ -11,7 +11,7 @@ images:
   slider: true
 ---
 
-This is an example post with advanced image components.
+This is an example post with advanced image components. This post can be considered as an extension of [[2015-05-15-images]] post.
 
 ## Image Slider
 

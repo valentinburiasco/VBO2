@@ -101,6 +101,11 @@ pagination:
 
 {% endif %}
 
+  <div class="card h-100 hoverable">
+    {% include posts_graph.html %}
+  </div>
+  <hr>
+
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
