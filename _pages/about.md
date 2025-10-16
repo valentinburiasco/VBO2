@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>LEGI & Fluid Transport Lab</a>. Université Grenoble Alpes & John Hopkins University
 
 profile:
   align: right
